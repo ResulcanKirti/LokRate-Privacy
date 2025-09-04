@@ -1,2 +1,0 @@
-# LokRate-Privacy
-Lokrate
