@@ -7,12 +7,12 @@ LokRate; kullanıcıların mekan ekleme, yorum yapma, eklenmiş mekanları harit
 
 Topladığımız Veriler
 
-Konum verisi (isteğe bağlı izin):
+Konum verisi:
 Sadece siz izin verdiğinizde, yakın mekanları göstermek, harita merkezini belirlemek ve yol tarifi başlatmak için anlık konumunuza erişiriz.
 
 Konum verisi sürekli saklanmaz.
 
-Bir mekan eklerken konum bilgisini siz sağlarsınız (mekanın koordinatları veri olarak kaydedilir).
+Bir mekan eklerken konum bilgisini siz sağlarsınız.
 
 Kullanıcı içerikleri:
 Eklediğiniz mekanlar ve yorumlar uygulamanın temel işlevi gereği herkese açık olarak diğer kullanıcılara gösterilir.
@@ -20,11 +20,11 @@ Eklediğiniz mekanlar ve yorumlar uygulamanın temel işlevi gereği herkese aç
 Teknik günlük verileri (sınırlı):
 Hata ayıklama ve güvenlik amaçlarıyla cihaz/işletim sistemi bilgisi, istek zaman damgası gibi sınırlı teknik veriler geçici olarak işlenebilir.
 
-Hesap bilgisi: LokRate şu aşamada oturum açma/hesap oluşturma gerektirmez; ad, e-posta gibi kimlik bilgilerini istemeyiz. (Gelecekte değişirse bu politika güncellenecektir.)
+Hesap bilgisi: LokRate şu aşamada oturum açma/hesap oluşturma gerektirmez; ad, e-posta gibi kimlik bilgilerini istemeyiz.
 
 Verileri Nasıl Kullanıyoruz?
 
-Uygulama işlevlerini sağlamak (harita gösterimi, mekan/yorum yayımlama, yol tarifi bağlantısı).
+Uygulama işlevlerini sağlamak.
 
 Kötüye kullanımın önlenmesi ve güvenlik.
 
@@ -66,7 +66,7 @@ Gerekli hallerde, aşağıdaki iletişim kanalı ile bize ulaşıp veri talepler
 
 Güvenlik
 
-İletişim sırasında veriler aktarım esnasında korunur (örn. HTTPS).
+İletişim sırasında veriler aktarım esnasında korunur.
 
 Hiçbir yöntem %100 güvenli olmamakla birlikte, makul teknik ve idari tedbirler uygularız.
 
@@ -82,12 +82,4 @@ Bu politika güncellenebilir. Güncel sürüm ve yürürlük tarihi bu sayfada y
 
 Sorumlu: LokRate (Bağımsız Geliştirici)
 
-E-posta: [e-posta adresinizi buraya yazın]
-
-Notlar (yayınlamadan önce)
-
-Köşeli parantezli yeri kendi e-posta adresinle değiştir.
-
-Dosya adını repo köküne index.md olarak koyarsan GitHub Pages ana URL’in doğrudan bu içeriği gösterir.
-
-Play Console’da Gizlilik Politikası URL’si alanına GitHub Pages linkini yapıştır.
+E-posta: taromres@gmail.com
