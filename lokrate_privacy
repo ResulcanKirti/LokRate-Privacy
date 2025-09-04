@@ -1,0 +1,26 @@
+# LokRate Gizlilik Politikası
+
+Son güncelleme: 05.09.2025
+
+LokRate uygulaması, kullanıcıların mekan ekleme, yorum yapma ve harita üzerinde mekanları görüntüleme deneyimini kolaylaştırmak için geliştirilmiştir. Kullanıcı verilerinin gizliliğine önem veriyoruz.
+
+## Toplanan Veriler
+- **Konum verisi**: Harita üzerinde doğru sonuçlar gösterebilmek için.
+- **Yorum ve değerlendirmeler**: Kullanıcıların eklediği içerikler.
+- **Cihaz bilgileri**: Hata ayıklama ve performans için sınırlı teknik bilgiler.
+
+## Verilerin Kullanım Amaçları
+- Uygulamanın temel işlevlerini sağlamak.
+- Kullanıcı deneyimini geliştirmek.
+- Güvenliği sağlamak.
+
+## Verilerin Paylaşımı
+- Veriler üçüncü kişilerle **satılmamaktadır**.
+- Harita servisleri OpenStreetMap altyapısı üzerinden sağlanmaktadır.
+
+## Kullanıcı Hakları
+- Kullanıcı, eklediği yorumları silebilir veya düzenleyebilir.
+- Uygulama kaldırıldığında konum verisi toplanmaz.
+
+## İletişim
+Sorularınız için: **resulcan@example.com**
